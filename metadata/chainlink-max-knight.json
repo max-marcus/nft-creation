@@ -1,0 +1,19 @@
+{
+  "name": "Chainlink Max Knight",
+  "description": "Max's Chainlink Knight. Better than all other knights.",
+  "image": "https://ipfs.io/ipfs/QmZGQA92ri1jfzSu61JRaNQXYg1bLuM7p8YT83DzFA2KLH?filename=Chainlink_Knight.png",
+  "attributes": [
+    {
+      "trait_type": "Strength",
+      "value": 55
+    },
+    {
+      "trait_type": "Speed",
+      "value": 11
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 66
+    }
+  ]
+}
